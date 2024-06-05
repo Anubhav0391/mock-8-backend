@@ -1,4 +1,51 @@
 {
-  "users": [],
-  "forum":[]
+  "items": [
+    {
+      "id": 48,
+      "name": "adblockplus",
+      "status": {
+        "product": { "status": "registered", "timestamp": null }
+      },
+      "type": "product_level"
+    },
+    {
+      "id": 49,
+      "name": "adguard",
+      "status": {
+        "product": { "status": "registered", "timestamp": null }
+      },
+      "type": "product_level"
+    },
+    {
+      "id": 51,
+      "name": "cybird",
+      "status": {
+        "product": { "status": "registered", "timestamp": null }
+      },
+      "type": "product_level"
+    },
+    {
+      "id": 47,
+      "name": "getadblock",
+      "status": {
+        "product": { "status": "registered", "timestamp": null }
+      },
+      "type": "product_level"
+    },
+    {
+      "id": 50,
+      "name": "quetta",
+      "status": {
+        "product": { "status": "registered", "timestamp": null }
+      },
+      "type": "product_level"
+    },
+    {
+      "status": {
+        "icp_graph": { "status": "registered", "timestamp": null },
+        "industry_analysis": { "status": "registered", "timestamp": null }
+      },
+      "type": "plan_level"
+    }
+  ]
 }
